@@ -1,4 +1,4 @@
-import setuptools
+from setuptools import find_packages,setup
 
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
@@ -14,6 +14,7 @@ AUTHOR_EMAIL = "lathiyap46@gmail.com"
 setuptools.setup(
     name=SRC_REPO,
     version=__version__,
+    # packages = find_packages(),
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
     description="A small python package for ml app",
