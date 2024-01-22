@@ -12,3 +12,18 @@ conda activate mlproj
 """bash
 pip install -r requirements.txt
 """
+
+""" bash
+
+
+1  git clone https://github.com/parthalathiya034/End-To-End-ML-Project.git ( here link is the HTTP Link from the github repositiory in code section )
+2  touch teplate.py
+3  git add .
+4  git commit -m "first commit"
+5  git config --global user.email "lathiyap46@gmail.com"
+6  git config --global user.name "ParthLathiya"
+7  git commit -m "first commit"
+
+8 git push origin main
+
+"""
