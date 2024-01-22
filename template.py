@@ -29,8 +29,6 @@ list_of_files = [
     "reserch/trials.igpynb",
     "templates/index.html"
 
-
-
 ]
 
 
