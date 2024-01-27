@@ -11,6 +11,7 @@ conda activate mlproj
 
 """bash
 pip install -r requirements.txt
+then atleast one check pip list 
 """
 
 """ bash
